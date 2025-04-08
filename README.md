@@ -1,16 +1,12 @@
 ## 👋 Hi there, I’m Hitesh Kumar Satpathy
 
-**hks18/hks18** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
-- 👯 I’m looking to collaborate on ... anything cool that involves code and creativity!
-- 💬 Ask me about ... programming, learning paths, or debugging weird bugs 😄
-- 📫 Gmail: [![Gmail](https://img.shields.io/badge/-hiteshkumarr356@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hiteshkumarr356@gmail.com)
-- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Hitesh%20Kumar%20Satpathy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-satpathy-46922a35b)  
+- 🌱 I’m currently pursuing **BTech CSE** at **SOA University**
+- 👯 I’m looking to collaborate on anything cool that involves code and creativity!
+- 💬 Ask me about programming, learning paths, or debugging weird bugs 😄
 - ⚡ **Fun fact:** Every line of code I write is a step closer to building something awesome—I break things to learn how to build better. 🔧💡
 
 ---
@@ -25,17 +21,17 @@
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-### 📘 Personal Portfolio  
+#### 📘 Personal Portfolio  
 A clean and modern portfolio website to showcase my work, built using HTML, CSS, and JavaScript.  
 🔗 [View Portfolio](https://your-portfolio-link.com)
 
-### 💡 Project Name 1  
+#### 💡 Project Name 1  
 Short description of what it does or why it’s cool.  
 🔗 [GitHub Repo](https://github.com/hks18/your-project)
 
-### ⚙️ Project Name 2  
+#### ⚙️ Project Name 2  
 Another awesome thing I built while learning or collaborating.  
 🔗 [GitHub Repo](https://github.com/hks18/your-other-project)
 
@@ -55,10 +51,16 @@ Another awesome thing I built while learning or collaborating.
 
 ---
 
----
-
 ### 📅 GitHub Snake Contribution Calendar
 
 ![snake gif](https://github.com/hks18/hks18/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/-hiteshkumarr356@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hiteshkumarr356@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-satpathy-46922a35b)
+[![Twitter/X](https://img.shields.io/badge/-@your_x_handle-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_x_handle)
 
 ---
